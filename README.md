@@ -1,3 +1,3 @@
 # Excel-Clone
 
-https://surajkumar540.github.io/Excel-Clone/
+https://excel-clone-project-ashish.netlify.app/
